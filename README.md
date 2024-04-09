@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **POS project, and HargaBits website**
 
-- 🌱 I’m currently learning **Nuxtjs, adonisjs**
+- 🌱 I’m currently learning **Next.js 14, AI generate**
 
 - 💬 Ask me about **html, css, javasrcript, bootstrap 5, tailwind css 3, git, react, typescript, next js, postgresql, mysql, sql, nodejs, firebase**
 
